@@ -15,6 +15,10 @@ Be sure to install axios, <br>
 
 ```$ npm install axios``` <br>
 
+## API 👻
+
+CoinGecko's market API
+
 ## Available Scripts
 
 In the project directory, you can run:
