@@ -4,7 +4,7 @@ A simple react cryptocurrency price tracking app. The users can search for the c
 
 ## Demo 😮
 
-![live site] (https://cryp-tracker.herokuapp.com/) <br>
+![live site](https://cryp-tracker.herokuapp.com/) <br>
 
 ![app demo](cryptotracker.png)
 
